@@ -1,9 +1,9 @@
 package = "kong-oidc"
-version = "1.3.1-3"
+version = "1.3.1-4"
 source = {
     url = "git://github.com/alewisfm/hipri-kong-oidc",
     tag = "master",
-    dir = "kong-oidc"
+    dir = "hipri-kong-oidc"
 }
 description = {
     summary = "A Kong plugin for implementing the OpenID Connect Relying Party (RP) functionality",
