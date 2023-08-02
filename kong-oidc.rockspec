@@ -1,5 +1,5 @@
 package = "kong-oidc"
-version = "1.3.1-2"
+version = "1.3.1-3"
 source = {
     url = "git://github.com/alewisfm/hipri-kong-oidc",
     tag = "master",
